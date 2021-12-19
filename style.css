@@ -1,0 +1,75 @@
+.jet-crypto tr,
+.jet-crypto thead,
+.jet-crypto td,
+.jet-crypto th {
+  background-color: transparent;
+  border: none;
+}
+.jet-crypto tbody tr td:first-child {
+  width: 100%;
+  text-align: left !important;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+}
+.jet-crypto tbody tr td:last-child {
+  font-weight: 600;
+}
+.jet-crypto th:not(:first-child),
+.jet-crypto td {
+  text-align: center;
+}
+.jet-crypto td {
+  padding: 10px 6px;
+  font-size: 14px;
+}
+.jet-crypto thead th {
+  font-size: 13px !important;
+  padding: 10px 6px;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.7);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  width: 50%;
+}
+.jet-crypto span {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.jet-currency tr,
+.jet-currency thead,
+.jet-currency td,
+.jet-currency th {
+  background-color: transparent;
+  border: none;
+}
+.jet-currency tbody tr td:first-child {
+  width: 100%;
+  text-align: left !important;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+}
+.jet-currency tbody tr td:last-child {
+  font-weight: 600;
+}
+.jet-currency th:not(:first-child),
+.jet-currency td {
+  text-align: center;
+}
+.jet-currency td {
+  padding: 10px 6px;
+  font-size: 14px;
+}
+.jet-currency thead th {
+  font-size: 13px !important;
+  padding: 10px 6px;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.7);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  width: 50%;
+}
+.jet-currency span {
+  display: inline-block;
+  margin-left: 10px;
+}
