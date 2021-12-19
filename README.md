@@ -6,5 +6,6 @@ Temanın yanından ücretsiz olarak dağıtıyordum. Kullanmak isteyen olursa te
 
 Temajet dışında başka bir temada nasıl çalışacağına dair test etmedim. Herhangi bir problem olması durumunda iletişime geçerseniz yardımcı olmaya çalışırım.
 
-[Temajet](https://www.temajet.com)
-[Luna Yazılım](https://www.lunayazilim.com)
+[Temajet Web Sitesi](https://www.temajet.com "Temajet Web Sitesi")
+
+[Luna Yazılım Web Sitesi](https://www.lunayazilim.com "Luna Yazılım Web Sitesi")
